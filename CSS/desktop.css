@@ -653,15 +653,15 @@
   }
   
   .social-icon.dribble {
-    background-image: url('svg/001-dribbble.svg');
+    background-image: url('/mq-diploma/svg/001-dribbble.svg');
   }
   
   .social-icon.pinterest {
-    background-image: url('svg/002-pinterest.svg');
+    background-image: url('/mq-diploma/svg/002-pinterest.svg');
   }
   
   .social-icon.tumblr {
-    background-image: url('svg/003-tumblr.svg');
+    background-image: url('/mq-diploma/svg/003-tumblr.svg');
   }
   
   .copyright {
