@@ -189,7 +189,6 @@
     margin-bottom: 60px;
     display: flex;
     width: 760px;
-      width: 100%;
   }
   
   .photo-text {
@@ -257,6 +256,7 @@
   .pic {
     display: flex;
     justify-content: center;
+      align-content: start;
   }
   
   .card p {
