@@ -145,6 +145,10 @@
     padding: 25px;
   }
 
+.new-trend:hover {
+    color: #b59f5b;
+        }
+
   .info {
     border: 1px solid #b59f5b;
     padding: 50px 35px 40px 35px;
