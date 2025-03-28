@@ -23,7 +23,7 @@
     font-family: "OpenSansRegular";
   }
   
-  .menu { 
+  .top-block { 
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
       url("images/banner-bg.jpg");
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@
     padding: 0px 15px;
   }
   
-  .menu-list {
+  .-list {
     padding: 0;  
     margin: 0;  
   }
