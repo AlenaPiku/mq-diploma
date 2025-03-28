@@ -194,7 +194,6 @@
   
   .photo-text {
     margin-left: 30px;
-      flex: 2;
   }
   
   ul.tags {
@@ -258,7 +257,6 @@
   .pic {
     display: flex;
     justify-content: center;
-      flex: 1;
   }
   
   .card p {
